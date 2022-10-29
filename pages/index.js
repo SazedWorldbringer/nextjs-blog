@@ -23,7 +23,7 @@ export default function Home() {
         <p>
           I finally got to creating a blog following the official{" "}
           <a href="https://nextjs.org/learn">Next.js tutorial</a>. Read about my
-          learning, stuff I read and some recipes maybe.
+          learning, stuff I read and maybe some recipes.
         </p>
       </section>
     </Layout>
