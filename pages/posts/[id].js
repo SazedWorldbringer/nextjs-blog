@@ -1,5 +1,17 @@
 import Layout from "../../components/layout";
-import { getAllPostsId } from "../../lib/posts";
+import { getAllPostsId, getPostData } from "../../lib/posts";
+
+export default function Post({ postData }) {
+  return (
+    <Layout>
+      {postData.title}
+      <br />
+      {postData.id}
+      <br />
+      {postData.date}
+    </Layout>
+  );
+}
 
 export async function getStaticPaths() {
   const paths = getAllPostsId();
@@ -9,6 +21,11 @@ export async function getStaticPaths() {
   };
 }
 
-export default function Post() {
-  return <Layout>...</Layout>;
+export async function getStaticProps({ params }) {
+  const postData = getPostData(params.id);
+  return {
+    props: {
+      postData,
+    },
+  };
 }
