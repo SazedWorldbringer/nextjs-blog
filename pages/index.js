@@ -22,8 +22,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Atharva. I am the Dragon Reborn. No, just kidding, I'm a
-          self-taught software engineer. Check out my{" "}
+          Hello, I&apos;m Atharva. I am the Dragon Reborn. No, just kidding,
+          I&apos;m a self-taught software engineer. Check out my{" "}
           <a
             href="https://github.com/SazedWorldbringer"
             target={"_blank"}
