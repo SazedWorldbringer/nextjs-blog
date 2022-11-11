@@ -35,8 +35,14 @@ export default function Home({ allPostsData }) {
         </p>
         <p>
           I finally got to creating a blog following the official{" "}
-          <a href="https://nextjs.org/learn">Next.js tutorial</a>. Read about my
-          learning, stuff I read and maybe some recipes.
+          <a
+            href="https://nextjs.org/learn/basics/create-nextjs-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Next.js tutorial
+          </a>
+          . Read about my learning, stuff I read and maybe some recipes.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
