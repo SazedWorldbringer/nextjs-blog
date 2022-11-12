@@ -22,11 +22,15 @@ Does it really matter?
 I mean, it does, but what matters more is that I improve.
 The next blog must be better than this one.
 Me learning new things and applying them is what matters.
-So, yeah, I'll keep improving. I'll keep writing. But anyways.
+Also, writing well as a software developer is a commendable skill,
+as I understood from reading Gergely Orosz&apos; article on
+[Becoming a Better Writer as a Software Engineer](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/).
 
-The things I'm doing right now -
+---
 
-- I've taken part in the 6-week Operator Academy November cohort,
+Things I'm doing right now -
+
+- I've taken part in the 6-week Operator Academy,
   by TwilioQuest, during which I'll learn Javascript(Node.js),
   Git/Github, the workings of and working with REST API,
   some contributing to open source, all of which I'm very excited to do!
