@@ -18,12 +18,13 @@ What If the! whole document is full of grammer , and spelling mistakes like this
 What if what I'm writing doesn't give insight into anything of value, isn't interesting, isn't good?
 
 Does it really matter?
+
 I mean, it does, but what matters more is that I improve.
 The next blog must be better than this one.
 Me learning new things and applying them is what matters.
 So, yeah, I'll keep improving. I'll keep writing. But anyways.
 
-So, the things I'm doing right now -
+The things I'm doing right now -
 
 - I've taken part in the 6-week Operator Academy November cohort,
   by TwilioQuest, during which I'll learn Javascript(Node.js),
