@@ -34,7 +34,7 @@ export default function Home({
           profile.
         </p>
         <p>
-          Read about my learnings, stuff I read, and maybe some recipes, I don't know.
+          Read about my learnings, stuff I read, and maybe some recipes, I don&apos;t know.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
