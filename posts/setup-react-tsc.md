@@ -6,13 +6,13 @@ date: "2023-01-21"
 # Scaffold your project
 
 With NPM: 
-- `$ npm create vite@latest`
+  `$ npm create vite@latest`
 
 With Yarn: 
-- `yarn create vite`
+  `$ yarn create vite`
 
 With PNPM: 
-- `pnpm create vite`
+  `$ pnpm create vite`
 
 Then,
 - Type in your project name
